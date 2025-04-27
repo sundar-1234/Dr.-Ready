@@ -14,7 +14,7 @@ const Contact = () => {
           <p className='font-semibold text-lg text-gray-600'>OUR OFFICE</p>
           <p className='text-gray-500'>54709 Williams Station <br />Suite 350, Washington, USA</p>
           <p className='text-gray-500'>+91 9080679488 <br />Email: shanmugasundaram.s2005@gmail.com</p>
-          <p className='font-semibold text-lg text-gray-600'>Careers at PRESCRIPTO</p>
+          <p className='font-semibold text-lg text-gray-600'>Careers at Dr. Ready</p>
           <p className='text-gray-500'>Learn more about our teams and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
         </div>
