@@ -7,7 +7,7 @@ import connectCloudinary from './config/cloudinary.js';
 const app = express();
 const PORT = process.env.PORT || 4000;
 connectDB();
-connectCloudinary();
+connectCloudinary()
 //middlewares
 app.use(express.json());
 app.use(cors()); //frontend connect with backend
